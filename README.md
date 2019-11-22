@@ -1,0 +1,2 @@
+# Rodinia backpropogation
+`$ make && ./run`
